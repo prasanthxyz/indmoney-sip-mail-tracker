@@ -4,7 +4,24 @@ stockToTicker.json
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
 
 # OS / editor
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
