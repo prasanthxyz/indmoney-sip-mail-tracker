@@ -1,0 +1,9 @@
+{
+  "sheet_id": "PASTE-YOUR-GOOGLE-SHEET-ID",
+  "sheet_name": "mutual_funds",
+  "gog_path": "gog",
+  "gmail_search": "label:status-next-actions from:indmoney",
+  "label_waiting_id": "",
+  "label_next_actions_id": "",
+  "ticker_map_path": "stockToTicker.json"
+}

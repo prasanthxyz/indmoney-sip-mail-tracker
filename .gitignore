@@ -1,0 +1,10 @@
+# Personal / account-specific files — never commit these
+config.json
+stockToTicker.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
