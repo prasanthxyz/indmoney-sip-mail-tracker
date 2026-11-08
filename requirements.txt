@@ -2,7 +2,8 @@
 #
 # Requirements to run:
 #   - Python 3.10+ (uses dict | list type unions)
-#   - the `gog` CLI (https://github.com/steipete/gog), on PATH or configured
+#   - the `gog` CLI (https://gogcli.sh/), on PATH or configured
 #     via `gog_path` in config.json — handles all Google OAuth
+#     Install: brew install openclaw/tap/gogcli
 #
 # This file exists for convention; it is intentionally dependency-free.

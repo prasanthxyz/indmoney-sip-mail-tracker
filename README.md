@@ -21,8 +21,12 @@ next run (already-written rows are skipped as duplicates).
 ## Requirements
 
 - Python 3.10+
-- [gog](https://github.com/steipete/gog) CLI, signed in to the Google account
-  that owns both the Gmail labels and the sheet.
+- [gog](https://gogcli.sh/) CLI, signed in to the Google account
+  that owns both the Gmail labels and the sheet:
+
+  ```sh
+  brew install openclaw/tap/gogcli
+  ```
 
 ## Setup
 
